@@ -11,14 +11,14 @@ February 7
 > Solving dependencies errors, switching to yarn (learning yarn)
 
 February 8
-> Introduction to yarn (init, add, up, dev...)/\
-> Typescript and Tailwind\/
-> Astro.build (Gatsby, Remix, Svelte)
-> Contentlayer (no content processing, automatic type definitions, built in validation, caching and incremental regenaration, live reloading)
+> Introduction to yarn (init, add, up, dev...)\
+> Typescript and Tailwind\
+> Astro.build (Gatsby, Remix, Svelte)\
+> Contentlayer (no content processing, automatic type definitions, built in validation, caching and incremental regenaration, live reloading)\
 > YAML
 
 February 9 
-> Basic customization of data files (headers, project data, sitemetaData, author)
-> Starting personalization of website
-> Prism
+> Basic customization of data files (headers, project data, sitemetaData, author)\
+> Starting personalization of website\
+> Prism\
 > Published article about creating a website
