@@ -24,5 +24,7 @@ February 9
 > Published article about creating a website
 
 February 10
-> Prettier is an opinionated code formatter (removes all original styling and ensures that all outputted code conforms to a consistent style
-> Reasons to use Typescript: Error Prevention, Improved Maintanability, Better Tooling, Scaling
+> Prettier is an opinionated code formatter (removes all original styling and ensures that all outputted code conforms to a consistent style\
+> Reasons to use Typescript: Error Prevention, Improved Maintanability, Better Tooling, Scaling\
+> Static vs Dynamic Typing (first happens at compile time, the other one at runtime)
+> Going over Typescripts Basics
