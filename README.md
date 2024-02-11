@@ -22,3 +22,6 @@ February 9
 > Starting personalization of website\
 > Prism\
 > Published article about creating a website
+
+February 10
+> Prettier is an opinionated code formatter (removes all original styling and ensures that all outputted code conforms to a consistent style
