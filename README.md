@@ -28,3 +28,13 @@ February 10
 > Reasons to use Typescript: Error Prevention, Improved Maintanability, Better Tooling, Scaling\
 > Static vs Dynamic Typing (first happens at compile time, the other one at runtime)
 > Going over Typescripts Basics
+
+February 17
+> Typescript Interfaces and Types Aliases
+> Classes vs Interfaces
+> Advanced Type Techniques
+> Composing Types
+> Generics
+> Structural Type Systems
+> Type Assertions
+> Read documentation "Everyday Types" and Basics from T website
