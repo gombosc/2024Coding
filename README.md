@@ -30,11 +30,17 @@ February 10
 > Going over Typescripts Basics
 
 February 17
-> Typescript Interfaces and Types Aliases
-> Classes vs Interfaces
-> Advanced Type Techniques
-> Composing Types
-> Generics
-> Structural Type Systems
-> Type Assertions
-> Read documentation "Everyday Types" and Basics from T website
+> Typescript Interfaces and Types Aliases\\
+> Classes vs Interfaces\
+> Advanced Type Techniques\
+> Composing Types\
+> Generics\
+> Structural Type Systems\
+> Type Assertions\
+> Read documentation "Everyday Types" and Basics from T website\
+
+February 12
+> First day of the Piscine at 42 Programming school\
+> will open a different repo for keeping track of what I'm learning this month\
+> introduction to unix, terminal and git applications (pretty difficult)
+> 10 hours of programming
