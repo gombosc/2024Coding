@@ -42,5 +42,12 @@ February 17
 February 12
 > First day of the Piscine at 42 Programming school\
 > will open a different repo for keeping track of what I'm learning this month\
-> introduction to unix, terminal and git applications (pretty difficult)
+> introduction to unix, terminal and git applications (pretty difficult)\
 > 10 hours of programming
+...
+Coded daily but didn't got time to update
+
+February 16
+> 42 Piscine
+> daily coding, peer reviews, exercises and projects
+> introduction to C and basic exercises
