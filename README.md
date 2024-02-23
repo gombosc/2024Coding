@@ -51,3 +51,9 @@ February 16
 > 42 Piscine
 > daily coding, peer reviews, exercises and projects
 > introduction to C and basic exercises
+
+...
+
+February 23
+> still going strong
+> recursion and atoi
