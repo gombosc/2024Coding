@@ -52,6 +52,12 @@ February 16
 > daily coding, peer reviews, exercises and projects
 > introduction to C and basic exercises
 
+<b>Update</b>
+> Finished the 42 Piscine at the beginning of March, got accepted soon after.
+
+April 2
+> Starting the main core program from 42 
+> setting up environment, first big project - libft
 ...
 
 February 23
