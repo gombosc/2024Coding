@@ -60,6 +60,9 @@ April 2
 > setting up environment, first big project - libft
 ...
 
+April 5
+> 
+
 February 23
 > still going strong
 > recursion and atoi
