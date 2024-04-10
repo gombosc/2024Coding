@@ -61,7 +61,11 @@ April 2
 ...
 
 April 5
-> 
+>
+
+April 10
+> Makefile and libraries
+> custom lib and functions to implement
 
 February 23
 > still going strong
