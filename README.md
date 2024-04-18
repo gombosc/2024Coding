@@ -67,6 +67,13 @@ April 10
 > Makefile and libraries
 > custom lib and functions to implement
 
+April 18
+> not consistent with updates, need to check more often
+> done with first part of libft, redone initial functions
+> string, character and memory functions in C, libft and makefile
+> moving to second part, after fixing some bugs
+
 February 23
 > still going strong
 > recursion and atoi
+
