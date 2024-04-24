@@ -52,6 +52,10 @@ February 16
 > daily coding, peer reviews, exercises and projects
 > introduction to C and basic exercises
 
+February 23
+> still going strong
+> recursion and atoi
+
 <b>Update</b>
 > Finished the 42 Piscine at the beginning of March, got accepted soon after.
 
@@ -73,7 +77,8 @@ April 18
 > string, character and memory functions in C, libft and makefile
 > moving to second part, after fixing some bugs
 
-February 23
-> still going strong
-> recursion and atoi
-
+April 24 (21:30)
+> finished main functions from libft
+> today worked on an undefined lib error, calloc and strdup plus norminette errors (a lot of them)
+> moving onto the next part
+> 8 hours at the digital ilab, then to 42
