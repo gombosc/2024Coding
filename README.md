@@ -82,3 +82,8 @@ April 24 (21:30)
 > today worked on an undefined lib error, calloc and strdup plus norminette errors (a lot of them)
 > moving onto the next part
 > 8 hours at the digital ilab, then to 42
+
+April 25 
+> strjoin, substr, strtrim
+> hard to concentrate
+> class on AR and VR at the digital iLAb today, played with 3d models
