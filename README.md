@@ -87,3 +87,7 @@ April 25
 > strjoin, substr, strtrim
 > hard to concentrate
 > class on AR and VR at the digital iLAb today, played with 3d models
+
+April 26
+> well, not a productive day
+> ft_strsplit
