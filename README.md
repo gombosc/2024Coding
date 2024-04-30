@@ -91,3 +91,8 @@ April 25
 April 26
 > well, not a productive day
 > ft_strsplit
+
+April 30
+> not productive
+> had some library error that I didn't realize
+
