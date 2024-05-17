@@ -97,4 +97,10 @@ April 30
 > had some library error that I didn't realize
 
 May 9
-> 
+
+May 15
+> finished libft
+> promise to never let deadlines on the last 100m ever again
+
+May 17
+> trying to push website online this weekend
