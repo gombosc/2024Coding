@@ -103,4 +103,12 @@ May 15
 > promise to never let deadlines on the last 100m ever again
 
 May 17
-> trying to push website online this weekend
+> trying to push blog online this weekend
+> going back to Next.js, haven't done Web in a while
+> ported from Windows to Linux, had compatibility errors with the dependencies, took some time to fix everything
+> forgot I was using yarn on the project so I encountered more errors - managed to make it run
+
+May 18
+> undecided on the design, keeping the Tailwind template
+> starting customization
+> 
