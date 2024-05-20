@@ -113,4 +113,8 @@ May 18
 > starting customization
 
 May 19
-> 
+> need to find a better solution to updating this
+> slept two days at 42 trying to finish the blog, not done...
+
+May 20
+
