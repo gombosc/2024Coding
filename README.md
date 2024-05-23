@@ -122,3 +122,7 @@ May 21
 > almost done with the website, lots of hours spent on it
 > tailwind and next still feel like a mystery
 
+MAy 23
+> missed writing yesterday
+> too sick to make more notes... 
+
