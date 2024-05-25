@@ -126,3 +126,5 @@ MAy 23
 > missed writing yesterday
 > too sick to make more notes... 
 
+MAy 25 
+> 
