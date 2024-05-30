@@ -128,6 +128,10 @@ MAy 23
 
 MAy 25 
 
+May 30
+> sick for one whole week
+> spent 8 hours on the website
+
 May 26
 
 May 28
