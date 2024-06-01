@@ -136,3 +136,11 @@ May 26
 
 May 28
 >
+May 29
+MAy 30
+May 31
+Website is finally alive
+
+June 1
+> editing pages before publishing
+> bought 2 domains (again due to error)
