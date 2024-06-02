@@ -144,3 +144,8 @@ Website is finally alive
 June 1
 > editing pages before publishing
 > bought 2 domains (again due to error)
+> projects page updated
+
+June 2
+> finished about page
+> added new resources page
