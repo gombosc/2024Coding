@@ -149,3 +149,11 @@ June 1
 June 2
 > finished about page
 > added new resources page
+.
+.
+.
+website is hosted on vercel, articles added
+
+
+__June 20__
+> website is fully functional
