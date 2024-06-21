@@ -157,3 +157,6 @@ website is hosted on vercel, articles added
 
 __June 20__
 > website is fully functional
+
+__June 21__
+> article on developing the website
