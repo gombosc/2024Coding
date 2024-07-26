@@ -163,3 +163,7 @@ __June 21__
 
 __June 28__
 > hello...
+
+__July__
+> back to 42 for a while
+> almost done w printf
